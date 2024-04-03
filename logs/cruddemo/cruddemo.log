@@ -1,0 +1,8 @@
+2024-04-03 08:43:36,931 INFO o.s.b.StartupInfoLogger [restartedMain] Starting CrudDemoApplication on L-5CD119JCNF with PID 19376 (D:\Course_Material\Source_Codes\Spring_Boot_Workspace\CrudDemo\target\classes started by vijaykumbhar in D:\Course_Material\Source_Codes\Spring_Boot_Workspace\CrudDemo)
+2024-04-03 08:43:36,931 INFO o.s.b.StartupInfoLogger [restartedMain] Starting CrudDemoApplication on L-5CD119JCNF with PID 19376 (D:\Course_Material\Source_Codes\Spring_Boot_Workspace\CrudDemo\target\classes started by vijaykumbhar in D:\Course_Material\Source_Codes\Spring_Boot_Workspace\CrudDemo)
+2024-04-03 08:43:36,942 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2024-04-03 08:43:36,942 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2024-04-03 08:43:36,945 INFO o.s.b.SpringApplication [restartedMain] The following profiles are active: uat
+2024-04-03 08:43:36,945 INFO o.s.b.SpringApplication [restartedMain] The following profiles are active: uat
+2024-04-03 08:43:37,008 INFO o.s.b.l.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-03 08:43:37,010 INFO o.s.b.l.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
